@@ -1,4 +1,6 @@
-# LIPPIA API Example Project
+# Testing de Endpoint con Lippia
+
+Integrado con modulos para hacer testing de api's.
 
 ## System Requirements : 
 + git client: https://www.atlassian.com/git/tutorials/install-git 
